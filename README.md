@@ -1,5 +1,3 @@
-# ElectionAnalysis
-
 # Demographic Determinants of U.S. Presidential Election Outcomes  
 ### A County-Level Analysis of the 2020 Vote  
  **Date:** May 2025  
